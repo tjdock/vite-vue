@@ -1,5 +1,5 @@
 vite+ts+vue3
->npm init @vite/app my-vue-app --template vue-ts
->npm i vue-router@4 --save
->npm i vuex@next --save
->npm i vant@next --save
+>pnpm init @vite/app my-vue-app --template vue-ts
+>pnpm i vue-router@4 --save
+>pnpm i vuex@next --save
+>pnpm i vant@next --save
