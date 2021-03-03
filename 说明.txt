@@ -3,3 +3,5 @@ vite+ts+vue3
 >pnpm i vue-router@4 --save
 >pnpm i vuex@next --save
 >pnpm i vant@next --save
+
+>pnpm run dev
